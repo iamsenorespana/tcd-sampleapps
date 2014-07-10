@@ -1,0 +1,33 @@
+
+".container" : {
+  
+},
+"#entryView":{
+	backgroundColor:'#0060AA',
+  width:'100%',
+  height:50,
+  top:0
+},
+"#controlsView":{
+  width:270,
+  height:'auto'
+},
+"#tableview":{
+	editable:true,
+	top:50
+},
+"#saveButton":{
+	title:'Save',
+	width:60,
+	height:35,
+	right:0,
+	enabled:false	
+},
+"#tf1":{
+	width:200,
+	height:35,
+	left:0,
+	borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED,
+	autocorrect:false,
+	hintText:'Enter a note...'	
+}

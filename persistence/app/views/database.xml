@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="win" class="container">>
+		<View id="entryView">
+			<View id="controlsView">
+				<TextField id="tf1" />
+				<Button id="saveButton" />
+			</View>
+		</View>
+		<TableView id="tableview" />
+	</Window>	
+</Alloy>

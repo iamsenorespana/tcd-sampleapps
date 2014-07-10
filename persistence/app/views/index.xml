@@ -1,0 +1,13 @@
+<Alloy>
+	<TabGroup>
+		<Tab title="Properties" id="tabOne">
+			<Require type="view" src="properties" />
+		</Tab>
+		<Tab title="Filesystem" id="tabOne">
+			<Require type="view" src="filesystem" />			
+		</Tab>
+		<Tab title="Database" id="tabOne" >
+			<Require type="view" src="database" />		
+		</Tab>
+	</TabGroup>
+</Alloy>

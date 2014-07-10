@@ -1,0 +1,12 @@
+
+".container" : {
+  backgroundColor: "#fff",
+  layout: "vertical"
+},
+"#tf1":{
+	width:250,
+	height:40,
+	top:10,
+	borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED,
+	autocorrect:false	
+}

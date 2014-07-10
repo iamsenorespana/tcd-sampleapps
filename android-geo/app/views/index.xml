@@ -1,0 +1,19 @@
+<Alloy>
+	<Window class="container">
+		<Label id="updatedLocationLabel"  >Updated Location</Label>
+		<Label id="updatedLocation" ></Label>
+		<Label id="updatedLatitude" ></Label>
+		<Label id="updatedLocationAccuracy" ></Label>
+		<Label id="updatedLocationTime" >Updated Location not fired</Label>
+		<Label id="reverseGeo" ></Label>
+		<Button id="button1" title="legacy network" />
+		<Button id="button2" title="legacy gps" />
+		<Button id="button3" title="simple low" />
+		<Button id="button4" title="simple high" />
+		<Button id="button5" title="manual network" />
+		<Button id="button6" title="manual network+gps" />
+		<Button id="button7" title="manual gps" />
+		<Button id="button8" title="gps rule on" />
+		<Button id="button9" title="gps rule off" />
+	</Window>
+</Alloy>

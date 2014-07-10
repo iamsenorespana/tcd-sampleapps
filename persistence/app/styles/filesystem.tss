@@ -1,0 +1,26 @@
+
+".container" : {
+  backgroundColor:"#fff",
+  layout: "vertical"
+},
+"#tf1":{
+	//value:resources.en_us.hello,
+	width:250,
+	height:40,
+	top:10,
+	borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED,
+	autocorrect:false	
+},
+"#tf2":{
+	width:250,
+	height:40,
+	top:10,
+	borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED,
+	autocorrect:false	
+},
+"#b1":{
+	title:'Save Resources',
+	width:200,
+	height:40,
+	top:10	
+}

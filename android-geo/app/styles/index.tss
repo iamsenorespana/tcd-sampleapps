@@ -1,0 +1,98 @@
+".container": {
+	backgroundColor:"white"
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+},
+/**
+ * 	Labels
+ */
+"#updatedLocationLabel":{
+    font:{fontSize: 12, fontWeight:'bold'},
+    color:'#111',
+    top:240,
+    left:10,
+    height:15,
+    width:300	
+},
+"#updatedLocation":{
+    font:{fontSize:12},
+    color:'#444',
+    top:260,
+    left:10,
+    height:15,
+    width:300
+},
+"#updatedLatitude":{
+    font:{fontSize:12},
+    color:'#444',
+    top:280,
+    left:10,
+    height:15,
+    width:300
+},
+"#updatedLocationAccuracy":{
+    font:{fontSize:12},
+    color:'#444',
+    top:300,
+    left:10,
+    height:15,
+    width:300
+},
+"#updatedLocationTime":{
+    font:{fontSize:12},
+    color:'#444',
+    top:320,
+    left:10,
+    height:15,
+    width:300
+},
+"#reverseGeo":{
+    font:{fontSize:12},
+    color:'#444',
+    top:340,
+    left:10,
+    height:15,
+    width:300
+},
+/**
+ * 	Buttons
+ */
+"#button1":{
+    top: 20,
+    left: 20	
+},
+"#button2":{
+    top: 70,
+    left: 20
+},
+"#button3":{
+    top: 120,
+    left: 20	
+},
+"#button4":{
+    top: 170,
+    left: 20	
+},
+"#button5":{
+    top: 20,
+    right: 20	
+},
+"#button6":{
+    top: 70,
+    right: 20	
+},
+"#button7":{
+    top: 120,
+    right: 20	
+},
+"#button8":{
+    top: 170,
+    right: 20	
+},
+"#button9":{
+    top: 170,
+    right: 110	
+}
